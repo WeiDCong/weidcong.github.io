@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "chn-China"
 site_theme               : "default"
-title                    : "Dacong's Personal Page"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : "WeiDacong"
 description              : #"Dacong's Personal Page"
