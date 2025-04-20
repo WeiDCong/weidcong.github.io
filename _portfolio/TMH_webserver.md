@@ -4,4 +4,4 @@ excerpt: "This is a webserver for convinent prediction of transition metal hydri
 collection: portfolio
 ---
 
-You may make rapid predictions of transition metal hydride properties, such as bond length, dissociation free energy and vibration frequency of M-H bonds, with the help of this [wenserver](http://47.107.42.91/).
+You may make rapid predictions of transition metal hydride properties, such as bond length, dissociation free energy and vibration frequency of M-H bonds, with the help of this [webserver](http://47.107.42.91/).
