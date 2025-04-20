@@ -1,6 +1,6 @@
 ---
-title: "TMH Webserver for transition metal hydride property predictions"
-excerpt: "This is a webserver for convinent prediction of transition metal hydride properties <br/><img src='/images/500x300.png'><url http://47.107.42.91/>"
+title: ["TMH Webserver for transition metal hydride property predictions"](http://47.107.42.91/)
+excerpt: "This is a webserver for convinent prediction of transition metal hydride properties <br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
