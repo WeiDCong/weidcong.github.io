@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "WeiDacong's Personal Page"
+title: "Dacong's Personal Page"
 author_profile: true
 redirect_from: 
   - /about/
