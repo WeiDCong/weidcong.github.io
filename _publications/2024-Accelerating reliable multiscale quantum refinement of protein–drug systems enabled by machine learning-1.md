@@ -1,9 +1,8 @@
 ---
-title: "Accelerating reliable multiscale quantum refinement of protein–drug
-systems enabled by machine learning"
+title: "Accelerating reliable multiscale quantum refinement of protein–drug systems enabled by machine learning"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-Accelerating reliable multiscale quantum refinement of protein–drug systems enabled by machine learning-number-1
+permalink: "/publication/2024-Accelerating reliable multiscale quantum refinement of protein–drug systems enabled by machine learning-1"
 excerpt: 'This study highlights that powerful MLPs accelerate QRs,and provide more atomistic insights into drug development.'
 date: 2024
 venue: 'Nature Communications'
