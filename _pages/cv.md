@@ -11,35 +11,32 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Chemistry, Southern University of Science and Technology, 2024
+* B.S. in Chemistry, Southern University of Science and Technology, 2021
 
-Work experience
+Reseacrh Projects
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Spring 2024 - Current: Prediction of ECD Spectra for Organic Chiral Molecules
+  * Place: SUSTech, China
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Spring 2023 - Spring 2024: Machine Learning Approaches for Transition Metal Hydride Properties
+  * Place: SUSTech, China
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Spring 2023 - Winter 2023: Quantum Tunneling in Rotational Isomerization
+  * Place: SUSTech, China
+
+* Fall 2022 - Fall 2023: Quantum Refinement Accelerated by Machine Learning Potentials
+  * Place: SUSTech, China
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Computational
+  * Gaussian, ORCA
+  * PyMOL, VMD, RDKit, OpenBabel
+* Digital
+  * Scikit-Learn, PyTorch, PyG
+* Programing
+  * Python, Shell
 
 Publications
 ======
@@ -47,18 +44,3 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
