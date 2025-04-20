@@ -23,10 +23,10 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "pikaqiu.png"
-  name             : "Wei Dacong"
+  name             : "Wei Dacong (韦大聪)"
   pronouns         : "he/his"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "An incoming PhD student in computational chemistry"
+  location         : #"Earth"
   employer         : #"Red Brick University"
   uri              : # URL
   email            : "DacongWei@outlook.com" 
