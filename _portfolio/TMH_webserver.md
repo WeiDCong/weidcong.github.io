@@ -1,7 +1,7 @@
 ---
-title: "TMH Webserver for transition metal hydride property predictions"(http://47.107.42.91/)
+title: "TMH Webserver for transition metal hydride property predictions"
 excerpt: "This is a webserver for convinent prediction of transition metal hydride properties <br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+You may make rapid predictions of transition metal hydride properties, such as bond length, dissociation free energy and vibration frequency of M-H bonds, with the help of this [wenserver](http://47.107.42.91/).
