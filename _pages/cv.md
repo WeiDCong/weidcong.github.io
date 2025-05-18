@@ -34,7 +34,7 @@ Skills
   * Gaussian, ORCA
   * PyMOL, VMD, RDKit, OpenBabel
 * Digital
-  * Scikit-Learn, PyTorch, PyG
+  * Scikit-Learn, PyTorch, PyG, TensorFlow
 * Programing
   * Python, Shell
 
