@@ -22,7 +22,7 @@ repository               : "WeiDCong/weidcong.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "white.png"
+  avatar           : "pikaqiu.png"
   name             : "Wei Dacong (韦大聪)"
   pronouns         : "he/his"  
   bio              : "computational chemistry"
