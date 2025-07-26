@@ -7,8 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to Dacong's Personal Page!
 ======
 Hi there! 
-I'm an incoming PhD student at ?. 
+I'm an prospective PhD student in computational chemistry. 
 My research interests mainly center around method development and application of atomistic modeling in physical chemistry.
