@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-======
+
 Hi there! 
 I'm an prospective PhD student in computational chemistry. 
 My research interests mainly center around method development and application of atomistic modeling in physical chemistry.
