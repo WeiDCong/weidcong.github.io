@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* M.S. in Chemistry, Southern University of Science and Technology, 2024
-* B.S. in Chemistry, Southern University of Science and Technology, 2021
+* M.Sc. in Chemistry, Southern University of Science and Technology, 2024
+* B.Sc. in Chemistry, Southern University of Science and Technology, 2021
 
 Publications
 ======
