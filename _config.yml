@@ -22,10 +22,10 @@ repository               : "WeiDCong/weidcong.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "pikaqiu.png"
+  avatar           : "yinshi.png"
   name             : "Wei Dacong (韦大聪)"
   pronouns         : "he/his"  
-  bio              : "computational chemistry"
+  bio              : "On the way to a computational chemist"
   location         : #"Earth"
   employer         : #"Red Brick University"
   uri              : # URL
