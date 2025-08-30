@@ -11,6 +11,6 @@ redirect_from:
 Hi there!
 ------
 
-I'm currently on my PhD journey towards computational chemistry. 
+I'm currently on my PhD journey towards computational chemistry.   
 
 My research interests mainly center around method development and applications of atomistic modeling in physical chemistry.
