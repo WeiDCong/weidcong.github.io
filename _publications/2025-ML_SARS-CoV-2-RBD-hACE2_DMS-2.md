@@ -6,6 +6,6 @@ permalink: #/publication/2025-ML_SARS-CoV-2-RBD-hACE2_DMS-2.md
 date: 2025-08-14
 venue: 'Biochemistry'
 paperurl: 'https://pubs.acs.org/doi/10.1021/acs.biochem.4c00587#'
-citation: 'Xia, H.†; <b>Wei, D.</b>†; Guo, Z.; Chung, L. Machine Learning on the Impacts of Mutations in the SARS-CoV-2 Spike RBD on Binding Affinity to Human ACE2 Based on Deep Mutational Scanning Data. <i>Biochemistry</i>. <b>2025</b>, <i>64</i>, 3790-3800.'
+citation: 'Xia, H.†; <b>Wei, D.</b>†; Guo, Z.; Chung, L. <i>Biochemistry</i>. <b>2025</b>, <i>64</i>, 3790-3800.'
 ---
 
