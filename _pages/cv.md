@@ -14,9 +14,10 @@ Education
 * M.Sc. in Chemistry, Southern University of Science and Technology, 2024
 * B.Sc. in Chemistry, Southern University of Science and Technology, 2021
 
+<!--
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+-->  
