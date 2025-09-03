@@ -7,6 +7,6 @@ excerpt: 'This study highlights that powerful MLPs accelerate QRs,and provide mo
 date: 2024-04-24
 venue: 'Nature Communications'
 paperurl: 'https://www.nature.com/articles/s41467-024-48453-4'
-citation: 'Yan, Z.; <b>Wei, D.</b>; Li, X.; Chung L. Accelerating Reliable Multiscale Quantum Refinement of Protein–drug Systems Enabled by Machine Learning. <i>Nat. Commun</i>. <b>2024</b>, <i>15</i>, 4181.'
+citation: 'Yan, Z.; <b>Wei, D.</b>; Li, X.; Chung L. <i>Nat. Commun</i>. <b>2024</b>, <i>15</i>, 4181.'
 ---
 
