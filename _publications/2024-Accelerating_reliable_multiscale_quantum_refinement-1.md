@@ -1,5 +1,5 @@
 ---
-title: "Accelerating Reliable Multiscale Quantum Refinement of Protein–drug Systems Enabled by Machine Learning"
+title: "1. Accelerating Reliable Multiscale Quantum Refinement of Protein–drug Systems Enabled by Machine Learning"
 collection: publications
 category: manuscripts
 permalink: #/publication/2024-Accelerating_reliable_multiscale_quantum_refinement-1
