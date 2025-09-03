@@ -1,8 +1,8 @@
 ---
-title: "Machine Learning on the Impacts of Mutations in the SARS-CoV-2 Spike RBD on Binding Affinity to Human ACE2 Based on Deep Mutational Scanning Data"
+title: "2. Machine Learning on the Impacts of Mutations in the SARS-CoV-2 Spike RBD on Binding Affinity to Human ACE2 Based on Deep Mutational Scanning Data"
 collection: publications
 category: manuscripts
-permalink: #/publication/2025-ML_SARS-CoV-2-RBD-hACE2_DMS
+permalink: #/publication/2025-ML_SARS-CoV-2-RBD-hACE2_DMS-2.md
 date: 2025-08-14
 venue: 'Biochemistry'
 paperurl: 'https://pubs.acs.org/doi/10.1021/acs.biochem.4c00587#'
